@@ -1,0 +1,14 @@
+As you go through the tutorial, note what each file and command is for. In your own works, answer the following questions about Rails directory structure and commands:
+
+What are some things the terminal command rails new blog does?
+-besides create new directory 'blog', it adds a lot of support folders and files
+
+What does the command bundle do?
+-loads needed gems, like running 'node packages' in JS does.  Also, instructions tell us:
+Gemfile - files allow you to specify what gem dependencies are needed for your Rails application. These files are used by the Bundler gem.
+
+What is config/routes.rb for?
+-inventory of URL routes will use, to naviagate through the blog. I will create these routes.
+
+What is app/views/layouts/application.html.erb doing for the project?
+What is the Gemfile for?
