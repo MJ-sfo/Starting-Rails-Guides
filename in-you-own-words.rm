@@ -11,4 +11,7 @@ What is config/routes.rb for?
 -inventory of URL routes will use, to naviagate through the blog. I will create these routes.
 
 What is app/views/layouts/application.html.erb doing for the project?
+-gives title to tab on browser, 'Blog'. The '<%= yield %>' must be where index shows up - so far, just some text i wrote
+
 What is the Gemfile for?
+-makes sure all libraries needed are loaded, like 'rails' and 'puma'
